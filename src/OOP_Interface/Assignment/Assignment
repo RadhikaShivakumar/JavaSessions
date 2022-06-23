@@ -1,0 +1,8 @@
+create one parent interface worldUnivresity
+create one interface USuniversity
+cources
+
+create one interface UKuniversity
+create one interface Indianuniversity
+
+college class
